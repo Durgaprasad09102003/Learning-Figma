@@ -1,0 +1,81 @@
+1. **Day 1: Setting Up**
+   - Learn about Figma, its interface, and basic tools.
+   - Project: Create a new Figma file and explore the workspace.
+
+
+
+
+
+
+Creating a new Figma file and exploring the workspace involves several steps. Here's a guide to help you get started:
+
+### Step 1: Create a New Figma File
+1. **Sign in to Figma:**
+   - Open [Figma](https://www.figma.com/) in your browser.
+   - Sign in with your account. If you don't have an account, create one.
+
+2. **Create a New File:**
+   - Click on the `+ New file` button on the home screen.
+   - Choose the type of file you want to create. Typically, you'll select `Design file`.
+
+### Step 2: Explore the Figma Workspace
+Once you have created a new file, you will be taken to the Figma workspace. Here's an overview of the main components:
+
+1. **Canvas:**
+   - This is the main area where you'll create and edit your designs.
+   - You can zoom in and out using the mouse scroll wheel or by pressing `Ctrl + +` and `Ctrl + -`.
+
+2. **Toolbar:**
+   - Located at the top of the screen, the toolbar contains tools for creating and manipulating objects.
+   - Common tools include the `Move Tool (V)`, `Frame Tool (F)`, `Rectangle Tool (R)`, `Text Tool (T)`, and more.
+
+3. **Layers Panel:**
+   - Located on the left side of the screen, this panel shows all the layers and objects in your file.
+   - You can organize your layers into frames and groups for better management.
+
+4. **Properties Panel:**
+   - Found on the right side of the screen, this panel displays the properties of the selected object.
+   - You can adjust properties like color, size, position, effects, and more.
+
+5. **Assets Panel:**
+   - Also on the left side, this panel contains reusable components, such as icons and design elements, that you can drag and drop into your canvas.
+   - You can create your own components or use libraries shared with your team.
+
+6. **Comments Panel:**
+   - You can leave comments on specific parts of your design for feedback and collaboration.
+   - Click on the `Comment Tool (C)` in the toolbar to start adding comments.
+
+### Step 3: Basic Actions
+1. **Create Shapes:**
+   - Use the `Rectangle Tool (R)` to draw rectangles, the `Ellipse Tool (O)` for circles, and the `Line Tool (L)` for lines.
+
+2. **Add Text:**
+   - Select the `Text Tool (T)` and click on the canvas to type.
+
+3. **Use Frames:**
+   - Use the `Frame Tool (F)` to create frames, which act as containers for your design elements.
+   - Frames are essential for creating responsive designs and organizing your layouts.
+
+4. **Import Images:**
+   - You can drag and drop images directly onto the canvas or use the `Place Image` function from the toolbar.
+
+5. **Create Components:**
+   - Select any object or group of objects, right-click, and choose `Create Component`. Components can be reused across your design.
+
+6. **Prototyping:**
+   - Switch to the `Prototype` tab in the properties panel to create interactive prototypes.
+   - Link frames by dragging connections between them to define interactions.
+
+### Step 4: Collaboration and Sharing
+1. **Invite Collaborators:**
+   - Click on the `Share` button in the top-right corner to invite others to your file.
+   - You can set permissions for each collaborator, such as view or edit access.
+
+2. **Real-time Collaboration:**
+   - Figma allows real-time collaboration, so multiple users can work on the same file simultaneously.
+
+3. **Comment and Feedback:**
+   - Use the `Comment Tool (C)` to add feedback directly on the design.
+   - Mention collaborators using `@` to notify them of specific comments.
+
+Exploring and getting comfortable with the Figma workspace will enable you to create and collaborate on designs effectively. Let me know if you need more detailed information on any specific feature or tool!
